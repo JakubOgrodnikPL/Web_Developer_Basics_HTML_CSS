@@ -1,0 +1,37 @@
+1. Download EMMET - addon for keyboard shortcuts
+
+Keyboard shortcuts:
+
+!+TAB gives simple html structure:
+
+"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+"
+
+p*10+TAB gives:
+
+"
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+"
+
+2. Download Beutify - addon for cleaner code
+
+CTRL+ALT+B - makes the code clearer
